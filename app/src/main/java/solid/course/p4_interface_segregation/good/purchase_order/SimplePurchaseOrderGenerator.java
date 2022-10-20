@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 
 public class SimplePurchaseOrderGenerator implements PurchaseOrderGenerator {
     static final Double FIXED_VAT_RATE = 0.19;
-
+    
     @Override
     public PurchaseOrder generate(Customer customer, Cart cart) {
         List<PurchaseItem> purchaseItems = cart

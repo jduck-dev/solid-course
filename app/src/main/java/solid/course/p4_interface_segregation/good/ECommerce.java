@@ -7,5 +7,6 @@ import solid.course.p4_interface_segregation.good.purchase_order.PurchaseOrder;
 
 public interface ECommerce {
     boolean verifyMethodOfPayment(MethodOfPayment mop);
+    
     PurchaseOrder generatePurchaseOrder(Customer customer, Cart cart);
 }
