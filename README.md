@@ -3,15 +3,15 @@
 # TODO
 - [x] Create empty project
 - [x] Create .gitignore
-- [ ] Create S examples
+- [x] Create S examples
 - [ ] Add tests to S
-- [ ] Create O examples
+- [x] Create O examples
 - [ ] Add tests to O
-- [ ] Create L examples
+- [x] Create L examples
 - [ ] Add tests to L
 - [ ] Create I examples
 - [ ] Add tests to I
-- [ ] Create D examples
+- [x] Create D examples
 - [ ] Add tests to D
 - [ ] Improve README.MD file
-- [ ] Make this repository public
+- [x] Make this repository public
